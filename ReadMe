@@ -1,0 +1,64 @@
+Student: Mardaloescu Serban
+Grupa: 334CA
+
+				Tema 1 - Positive Acknowledgement with Retransmission Protocol
+				
+	Am implementat protocolul PAR, in limbajul C, folosindu-ma de framework-ul
+laboratorului 2.
+	Astfel, tema mea are doua fisiere sursa, send.c si recv.c. In ambele fisiere
+am definit functii ajutatoare:
+	->compute_byte_parity: calculeaza paritatea unui byte
+	->compute_checksum: calculeaza paritatea unui sir de caractere
+	->convert: converteste un `int` la un `char`-folositor pentru sequence number
+		si checksum
+	->my_get_time: parseaza rezultatul obtinut de `asctime` si afiseaza in 
+		fisierul de log formatul corespunzator impreuna cu entitatea{SEND, RECV}
+	->convert_to_base_2: converteste un numar din baza 10 in baza 2 si afiseaza
+		rezultatul in fisierul de log
+	->print_to_log_sent: scrie in fisierul de log un mesaj corespunzator actiunii
+		de `send` al unui mesaj
+	->print_to_log_recv: scrie in fisierul de log un mesaj corespunzator actiunii
+		de `receive` al unui mesaj
+	
+	Fisierul de tranmis se da ca si parametru in linia de comanda executabilului
+send.
+	Fisierul send.c: Incepe prin a citi numele fisierului pe care urmeaza sa-l
+transmita si apoi calculeaza un numar pseudo-random si face minimul dintre
+acesta si lungimea numelui fisierului. Daca lungimea fisierului este mai mica
+decat numarul generat, se va trimite un singur mesaj continand numele fisierului.
+Daca nu, se vor trimite doua mesaje, primul cu prima parte a numelui fisierului,
+iar urmatorul cu restul numelui fisierului. Se continua apoi transmiterea datelor
+din fisierul de transmis. Astfel ca se genereaza din nou un numar random si se
+vor trimite `random number` octeti cu fiecare mesaj pe care send-ul il transmite.
+Sender-ul trimite un mesaj cu un numar de octeti si asteapta un raspuns.
+Raspunsul trebuie sa soseasca in maxim 5 secunde. Daca acest interval expira, 
+retrimite mesajul anterior. Face asta pana cand primeste un mesaj ACK. Cand
+l-a primit, verifica daca numarul de secventa este egal cu cel primit. Daca da,
+isi continua executia, trimitand un nou numar random de octeti. Daca nu,
+retrimite mesajul anterior si procesul se repeta. Cand a finalizat transmiterea
+intregului continut din fisier, trimite un mesaj special, prin care anunta ca
+a trimis intreg fisierul.
+	Fisierul recv.c: Incepe prin a astepta un mesaj ce va reprezenta numele 
+fisierului in care va scrie continutul primit. Primeste mesajul, ii verifica
+checksum-ul si daca acesta este corespunzator, concateneaza ceea ce a primit la 
+un sir de caractere gol, apoi trimite un mesaj ACK-CORRECT. Daca checksum-ul 
+calculat local difera de cel receptionat, trimite un mesaj ACK-CORRUPT si
+astepata un raspuns corect. Dupa ce primeste mesajul corespunzator, asteapta
+timp de o secunda inca un mesaj de la sender. Daca acest mesaj nu vine, inseamna
+ca intregul nume al fisierului a fost transmis in primul mesaj. Daca insa acesta
+soseste, ii verifica checksum-ul si numarul de seceventa si daca acestea sunt
+corespunzatoare, concateneaza ceea ce a primit la sirul de caractere mai sus
+mentionat si trimte un mesaj ACK-CORRECT. Daca checksum-ul sau numarul de
+secventa nu sunt corecte, trimite un mesaj ACK-CORRUPT. Apoi, incepe
+receptionarea mesajul cu continutul ce trebuie scris in fisierul de output.
+Pentru fiecare mesaj receptionat, se verifica checksum-ul si numarul de secventa
+si in functie de comparatiile mentionate mai sus, se actioneaza corespunzator.
+De fiecare data cand se receptioneaza corect un mesaj necorupt, se verifica daca
+continutul sau nu este egal cu sirul special trimis de sender la finalul
+transmisiei continutului. Cand acestea vor fi egale, se iese din bucla de
+receptie a mesajelor si programul se incheie.
+	Ambele fisiere anunta evenimentele in fisierul de log.
+	Intarzierea se poate face modificand macro-ul din send.c denumit `my_timeout`.
+Cu cat intervalul de timeout este ales mai mic, cu atat sansele ca o intarziere
+sa se produca sunt mai mari, datorita operatiilor costisitoare din recv.c, cum
+ar fi scrierea in fisierele de log si destinatie.

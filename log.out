@@ -1,0 +1,1436 @@
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 1
+Checksum: 01100001
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 2
+Checksum: 00110001
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 3
+Checksum: 01100001
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 4
+Checksum: 01100001
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 5
+Checksum: 01100001
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 6
+Checksum: 01100001
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 7
+Checksum: 01100001
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 8
+Checksum: 01100001
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 9
+Checksum: 01100001
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 0
+Checksum: 01100001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 2
+Payload: Student: Mardaloescu Serban
+Grupa
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 1
+Checksum: 01100000
+ACK-CORRUPT!
+Retrimit mesajul ...
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 2
+Payload: : 334CA
+
+			Tema 3 APD - Calcul p
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 2
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 3
+Payload: aralel folosind MPI
+
+	Tema este s
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit ur[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+Duplicat!
+Retrimit ACK ...
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+Duplicat!
+Retrimit ACK ...
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+Duplicat!
+Retrimit ACK ...
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+Duplicat!
+Retrimit ACK ...
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+Duplicat!
+Retrimit ACK ...
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+Duplicat!
+Retrimit ACK ...
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+Duplicat!
+Retrimit ACK ...
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: README
+Checksum: 00110001
+Duplicat!
+Retrimit ACK ...
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 2
+Payload: Student: Mardaloescu Serban
+Grupa
+Checksum: 00110000
+Duplicat!
+Retrimit ACK ...
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 2
+Payload: : 334CA
+
+			Tema 3 APD - Calcul p
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 3
+Payload: aralel folosind MPI
+
+	Tema este s
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 4
+Payload: crisa in limbajul C++. In compone
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 5
+Payload: nta ei intra mai multe fisiere, s
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 6
+Payload: i anume:
+		*main.cpp:	programul p
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 7
+Payload: rincipal;
+		*info.h:	fisier ce de
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 8
+Payload: scrie structura unui mesaj inform
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 9
+Payload: ativ trimis de catre master;
+		*c
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 0
+Payload: omplex.h:	fisier ce descrie calit
+Checksum: 001matorul pachet:
+Seq No: 3
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 4
+Payload: crisa in limbajul C++. In compone
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 4
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 5
+Payload: nta ei intra mai multe fisiere, s
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 5
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 6
+Payload: i anume:
+		*main.cpp:	programul p
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 6
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 7
+Payload: rincipal;
+		*info.h:	fisier ce de
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 7
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 8
+Payload: scrie structura unui mesaj inform
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 8
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 9
+Payload: ativ trimis de catre master;
+		*c
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 9
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 0
+Payload: omplex.h:	fisier ce descrie calit
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 0
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: atile unui numar complex, dar si 
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 1
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 2
+Payload: cateva operatii pe numere complex
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 2
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 3
+Payload: e;
+		*complex.cpp: implementarea 
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 3
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 4
+Payload: operatiilor de mai sus.
+
+	Mai jos
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 4
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 5
+Payload:  o sa ofer o descriere succinta a
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 5
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 6
+Payload:  acestora.
+	1) Fisierul `main.cpp
+Checksum: 00110000
+=================================================
+[26-03-2014 23:3110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: atile unui numar complex, dar si 
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 2
+Payload: cateva operatii pe numere complex
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 3
+Payload: e;
+		*complex.cpp: implementarea 
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 4
+Payload: operatiilor de mai sus.
+
+	Mai jos
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 5
+Payload:  o sa ofer o descriere succinta a
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 6
+Payload:  acestora.
+	1) Fisierul `main.cpp
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 7
+Payload: ` este fisierul ce contine progra
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 8
+Payload: mul principal. In acesta am decla
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 9
+Payload: rat protipurile functiilor
+ce cal
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 0
+Payload: culeaza multimile Mandelbrot si J
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: ulia, am citit din fisier corespu
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 2
+Payload: nzator, am copiat elementele de i
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 3
+Payload: nteres pentru
+workeri intr-o inst
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 4
+Payload: anta a unei clase ce urmeaza sa f
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 5
+Payload: ie trimisa de catre `master` munc
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+==============================:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 6
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 7
+Payload: ` este fisierul ce contine progra
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 7
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 8
+Payload: mul principal. In acesta am decla
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 8
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 9
+Payload: rat protipurile functiilor
+ce cal
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 9
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 0
+Payload: culeaza multimile Mandelbrot si J
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 0
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: ulia, am citit din fisier corespu
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 1
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 2
+Payload: nzator, am copiat elementele de i
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 2
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 3
+Payload: nteres pentru
+workeri intr-o inst
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 3
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 4
+Payload: anta a unei clase ce urmeaza sa f
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 4
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 5
+Payload: ie trimisa de catre `master` munc
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 5
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 6
+Payload: itorilor.
+	Am impartit matricea i
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 6
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 7
+Payload: n numar de linii egal cu height/n
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 7
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 8
+Payload: um_of_processes, iar restul linii
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 8
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 9
+Payload: lor ce raman neasignate sunt
+prel
+Checksum: 00110000
+=============================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 6
+Payload: itorilor.
+	Am impartit matricea i
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 7
+Payload: n numar de linii egal cu height/n
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 8
+Payload: um_of_processes, iar restul linii
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 9
+Payload: lor ce raman neasignate sunt
+prel
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 0
+Payload: uate si prelucrate de catre maste
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:33] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: r. Acesta trimite structura catre
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 2
+Payload:  toate celelalte procese, daca ac
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 3
+Payload: estea exista,
+bineinteles, si apo
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 4
+Payload: i incepe prelucrarea liniilor pro
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 5
+Payload: prii.
+	Procesele de tip worker pr
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 6
+Payload: imesc informatia de la master si 
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 7
+Payload: incep a-si prelucra liniile asign
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 8
+Payload: ate, aplicand unul din 
+cei doi a
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 9
+Payload: lgoritmi si retinand rezultatele 
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 0
+Payload: intr-un vector denumit `array` ce
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload:  contine pe prima poziti=======
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 9
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 0
+Payload: uate si prelucrate de catre maste
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 0
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: r. Acesta trimite structura catre
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am primit urmatorul pachet:
+Seq No: 1
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:33] [SEND]  Am trimis urmatorul pachet:
+Seq No: 2
+Payload:  toate celelalte procese, daca ac
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 2
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 3
+Payload: estea exista,
+bineinteles, si apo
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 3
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 4
+Payload: i incepe prelucrarea liniilor pro
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 4
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 5
+Payload: prii.
+	Procesele de tip worker pr
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 5
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 6
+Payload: imesc informatia de la master si 
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 6
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 7
+Payload: incep a-si prelucra liniile asign
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 7
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 8
+Payload: ate, aplicand unul din 
+cei doi a
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 8
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 9
+Payload: lgoritmi si retinand rezultatele 
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 9
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 0
+Payload: intr-un vector denumit `array` ce
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 0
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload:  contine pe prima pozitie linia c
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 1
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 2
+Payload: e este prelu-
+crata. Dupa ce fina
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 2
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 3
+Payload: lizeaza de prelucrat o linie, un 
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 3
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 4
+Payload: worker trimite acest vector catre
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 4
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 5
+Payload:  master si isi continua lucrul pa
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 5
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 6
+Payload: na
+cand finalizeaza.
+	Master-ul p
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 6
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 7
+Payload: rimeste, dupa ce termina de prelu
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 7
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 8
+Payload: crat task-urile proprii, informat
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 8
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 9
+Payload: iile de la workeri si scrie rezul
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 9
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 0
+Payload: tatele in
+matricea de culori(colo
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 0
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: r_matrix). Dupa ce termina acest 
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 1
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 2
+Payload: lucru, scrie matricea in fisierul
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 2
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 3
+Payload:  de iesire. O varianta mai rapida
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 3
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 4
+Payload: 
+ar fi fost aceea de a scrie dire
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 4
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 5
+Payload: ct atat rezultatele primite de la
+Checksum: 0e linia c
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 2
+Payload: e este prelu-
+crata. Dupa ce fina
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 3
+Payload: lizeaza de prelucrat o linie, un 
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 4
+Payload: worker trimite acest vector catre
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 5
+Payload:  master si isi continua lucrul pa
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 6
+Payload: na
+cand finalizeaza.
+	Master-ul p
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 7
+Payload: rimeste, dupa ce termina de prelu
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 8
+Payload: crat task-urile proprii, informat
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 9
+Payload: iile de la workeri si scrie rezul
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 0
+Payload: tatele in
+matricea de culori(colo
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: r_matrix). Dupa ce termina acest 
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 2
+Payload: lucru, scrie matricea in fisierul
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 3
+Payload:  de iesire. O varianta mai rapida
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 4
+Payload: 
+ar fi fost aceea de a scrie dire
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 5
+Payload: ct atat rezultatele primite de la
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 6
+Payload:  workeri, cat si cele proprii in 
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=======0110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 5
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 6
+Payload:  workeri, cat si cele proprii in 
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 6
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 7
+Payload: fisierul de iesire, dar
+din momen
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 7
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 8
+Payload: t ce ideea aceasta mi-a venit chi
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 8
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 9
+Payload: ar cand scriu acest ReadMe, nu am
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 9
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 0
+Payload:  avut timpul necesar de a o imple
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 0
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: menta.
+	2) Fisierul `complex.h` e
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 1
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 2
+Payload: ste un fisier ce contine calitati
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 2
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 3
+Payload: le unui numar complex(partea real
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 3
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 4
+Payload: a si imaginara), dar si 
+cateva o
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 4
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 5
+Payload: peratii cu acestea(adunare, inmul
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 5
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 6
+Payload: tire, modul) implementate in fisi
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 6
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 7
+Payload: erul `complex.cpp`.
+	3) Fisierul 
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 7
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 8
+Payload: `info.h` este un fis==========================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 7
+Payload: fisierul de iesire, dar
+din momen
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 8
+Payload: t ce ideea aceasta mi-a venit chi
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 9
+Payload: ar cand scriu acest ReadMe, nu am
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 0
+Payload:  avut timpul necesar de a o imple
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: menta.
+	2) Fisierul `complex.h` e
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 2
+Payload: ste un fisier ce contine calitati
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 3
+Payload: le unui numar complex(partea real
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 4
+Payload: a si imaginara), dar si 
+cateva o
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 5
+Payload: peratii cu acestea(adunare, inmul
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 6
+Payload: tire, modul) implementate in fisi
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 7
+Payload: erul `complex.cpp`.
+	3) Fisierul 
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 8
+Payload: `info.h` este un fisier ce contin
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 9
+Payload: e o clasa cu toate caracteristici
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 0
+Payload: le importante citite de catre mas
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 1
+Payload: ter din 
+fisierul de intrare, dar
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:34] [RECV]  Am primit urmatorul pachet:
+Seq No: 2
+Payload:  si alte doua campuri: row si lin
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:35] [RECV]  Am primit urmatorul pachet:
+Seq No: 3
+Payload: es_to_compute. Numele sunt indeaj
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:35] [RECV]  Am primit urmatorul pachet:
+Seq No: 4
+Payload: uns de intuitive pentru a inteleg
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:35] [RECV]  Am primit urmatorul pachet:
+Seq No: 5
+Payload: e
+pentru ce sunt folosite.
+	Despr
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:35] [RECV]  Am primit urmatorul pachet:
+Seq No: 6
+Payload: e implementarea algoritmilor nu a
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:35] [RECV]  Am primit urmatorul pachet:
+Seq No: 7
+Payload: m prea multe de spus, ei fiind of
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:35] [RECV]  Am primit urmatorul pachet:
+Seq No: 8
+Payload: eriti `pe tava` in enuntul temei.
+Checksum: 00110001
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:35] [RECV]  Am primit urmatorul pachet:
+Seq No: 9
+Payload: 
+
+Checksum: 00110000
+Sequence number-ul se potriveste;Checksum-ul local se potriveste; Trimit ACK-CORRECT
+=================================================
+[26-03-2014 23:31:35] [RECV]  Am primit urmatorul pachet:
+Seq No: 0
+Payload: End of file
+Checksum: 00110001
+End of file=================================================
+ier ce contin
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 8
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 9
+Payload: e o clasa cu toate caracteristici
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 9
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 0
+Payload: le importante citite de catre mas
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 0
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 1
+Payload: ter din 
+fisierul de intrare, dar
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 1
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 2
+Payload:  si alte doua campuri: row si lin
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am primit urmatorul pachet:
+Seq No: 2
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:34] [SEND]  Am trimis urmatorul pachet:
+Seq No: 3
+Payload: es_to_compute. Numele sunt indeaj
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am primit urmatorul pachet:
+Seq No: 3
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am trimis urmatorul pachet:
+Seq No: 4
+Payload: uns de intuitive pentru a inteleg
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am primit urmatorul pachet:
+Seq No: 4
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am trimis urmatorul pachet:
+Seq No: 5
+Payload: e
+pentru ce sunt folosite.
+	Despr
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am primit urmatorul pachet:
+Seq No: 5
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am trimis urmatorul pachet:
+Seq No: 6
+Payload: e implementarea algoritmilor nu a
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am primit urmatorul pachet:
+Seq No: 6
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am trimis urmatorul pachet:
+Seq No: 7
+Payload: m prea multe de spus, ei fiind of
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am primit urmatorul pachet:
+Seq No: 7
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am trimis urmatorul pachet:
+Seq No: 8
+Payload: eriti `pe tava` in enuntul temei.
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am primit urmatorul pachet:
+Seq No: 8
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am trimis urmatorul pachet:
+Seq No: 9
+Payload: 
+
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am primit urmatorul pachet:
+Seq No: 9
+Checksum: 00110000
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am trimis urmatorul pachet:
+Seq No: 0
+Payload: End of file
+Checksum: 00110001
+=================================================
+[26-03-2014 23:31:35] [SEND]  Am primit urmatorul pachet:
+Seq No: 0
+Checksum: 00110001
+=================================================
